@@ -9,9 +9,12 @@ class NClientes
 
     public static Clientes Listar(int id)
     {
-        foreach(Clientes obj in clientes )
+        foreach(Clientes obj in clientes)
         {
-            if (obj.id == id) return obj;
+            if (obj.id == id)
+            {
+              return obj;  
+            } 
         }
 
         return null;
@@ -31,5 +34,23 @@ class NClientes
         id++;
         c.id = id;
         clientes.Add(c);
+    }
+
+    public static void Atualizar(Clientes c)
+    {
+        Clientes obj = Listar(c.id);
+        if (obj != null)
+        {
+            obj.email = c.email;
+        }
+    }
+
+    public static void Excluir(Clientes c)
+    {
+        Clientes obj = Listar(c.id);
+        if (obj != null)
+        {
+            clientes.Remove(obj);
+        }
     }
 }
