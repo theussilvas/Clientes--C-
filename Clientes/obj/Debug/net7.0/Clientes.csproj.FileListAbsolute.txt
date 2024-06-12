@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\obj\Debug\net7.0\Clientes.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\obj\Debug\net7.0\Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\obj\Debug\net7.0\Clientes.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\obj\Debug\net7.0\Clientes.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\obj\Debug\net7.0\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\bin\Debug\net7.0\Clientes.exe
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\bin\Debug\net7.0\Clientes.deps.json
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\bin\Debug\net7.0\Clientes.runtimeconfig.json
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\bin\Debug\net7.0\Clientes.dll
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\bin\Debug\net7.0\Clientes.pdb
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\obj\Debug\net7.0\Clientes.dll
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\obj\Debug\net7.0\refint\Clientes.dll
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\obj\Debug\net7.0\Clientes.pdb
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\obj\Debug\net7.0\Clientes.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\ADA - Santander\C#\Clientes\obj\Debug\net7.0\ref\Clientes.dll
